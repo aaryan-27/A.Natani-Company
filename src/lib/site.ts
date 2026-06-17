@@ -10,13 +10,13 @@ export const site = {
   tagline: "Simplifying Taxation, Compliance & Business Growth",
   description:
     "A G R S and Associates is a Jaipur-based Chartered Accountant firm offering expert income tax, GST, audit, company registration, accounting and business advisory services for individuals, startups, MSMEs and businesses.",
-  url: "https://www.yogendrajainca.com",
+  url: "https://www.agrsandassociates.com",
   city: "Jaipur",
   state: "Rajasthan",
   // Use NEXT_PUBLIC_SITE_URL in production deployments.
   phone: "+91 88750 00468",
   phoneRaw: "918875000468",
-  email: "info@yogendrajainca.com",
+  email: "info@agrsandassociates.com",
   address: {
     line1: "Third Floor, H 458, Azad Marg",
     line2: "C Scheme",
