@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm --version)",
+      "Bash(npx --yes create-next-app@latest . --typescript --tailwind --eslint --app --src-dir --import-alias \"@/*\" --no-turbopack --use-npm --yes)",
+      "Read(//private/tmp/**)",
+      "Bash(rm -rf cayj-scaffold)",
+      "Bash(npx --yes create-next-app@latest cayj-scaffold --typescript --tailwind --eslint --app --src-dir --import-alias \"@/*\" --no-turbopack --use-npm --yes)",
+      "Bash(npm install *)",
+      "Bash(npx tsc *)",
+      "Bash(npm run *)",
+      "mcp__Claude_Preview__preview_start",
+      "mcp__Claude_in_Chrome__navigate",
+      "Bash(git config *)",
+      "Bash(git init *)",
+      "Bash(git branch *)",
+      "Bash(git add *)",
+      "Bash(git commit -q -m ' *)"
+    ]
+  }
+}
