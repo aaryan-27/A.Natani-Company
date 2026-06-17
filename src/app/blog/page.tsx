@@ -11,7 +11,7 @@ import { posts, categories } from "@/lib/blog";
 export const metadata: Metadata = {
   title: "Blog — Tax, GST & Compliance Insights",
   description:
-    "Practical articles on income tax, GST, startup registration, accounting and business compliance from the CA team at Yogendra Jain & Company, Jaipur.",
+    "Practical articles on income tax, GST, startup registration, accounting and business compliance from the CA team at A G R S and Associates, Jaipur.",
   alternates: { canonical: "/blog" },
 };
 

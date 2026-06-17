@@ -1,39 +1,38 @@
 /**
- * Central configuration for YOGENDRA JAIN & COMPANY.
+ * Central configuration for A G R S AND ASSOCIATES.
  * Single source of truth for contact details, navigation, services and SEO.
  */
 
 export const site = {
-  name: "YOGENDRA JAIN & COMPANY",
-  shortName: "Yogendra Jain & Co.",
-  legalName: "Yogendra Jain & Company, Chartered Accountants",
+  name: "A G R S AND ASSOCIATES",
+  shortName: "A G R S and Associates",
+  legalName: "A G R S and Associates, Chartered Accountants",
   tagline: "Simplifying Taxation, Compliance & Business Growth",
   description:
-    "Yogendra Jain & Company is a Jaipur-based Chartered Accountant firm offering expert income tax, GST, audit, company registration, accounting and business advisory services for individuals, startups, MSMEs and businesses.",
+    "A G R S and Associates is a Jaipur-based Chartered Accountant firm offering expert income tax, GST, audit, company registration, accounting and business advisory services for individuals, startups, MSMEs and businesses.",
   url: "https://www.yogendrajainca.com",
   city: "Jaipur",
   state: "Rajasthan",
   // Use NEXT_PUBLIC_SITE_URL in production deployments.
-  phone: "+91 82854 95212",
-  phoneRaw: "918285495212",
+  phone: "+91 88750 00468",
+  phoneRaw: "918875000468",
   email: "info@yogendrajainca.com",
   address: {
-    line1:
-      "Office No A-302, 3rd Floor, Back side of Abhinandan Samudayik Kendra",
-    line2: "Near Kanha Restaurant, Subhash Nagar, Bani Park",
+    line1: "Third Floor, H 458, Azad Marg",
+    line2: "C Scheme",
     city: "Jaipur",
     state: "Rajasthan",
-    pincode: "302016",
+    pincode: "302001",
     country: "India",
-    full: "Office No A-302, 3rd Floor, Back side of Abhinandan Samudayik Kendra, near Kanha Restaurant, Subhash Nagar, Bani Park, Jaipur, Rajasthan 302016",
-    geo: { lat: 26.9326, lng: 75.7896 },
+    full: "Third Floor, H 458, Azad Marg, C Scheme, Jaipur, Rajasthan 302001, India",
+    geo: { lat: 26.9069, lng: 75.7965 },
   },
   hours: "Mon – Sat: 10:00 AM – 7:00 PM",
   maps: {
     profile:
-      "https://www.google.com/maps/search/?api=1&query=YOGENDRA%20JAIN%20%26%20COMPANY&query_place_id=ChIJS7Uu5qC0bTkRiwARZFdYA_s",
+      "https://www.google.com/maps/search/?api=1&query=A%20G%20R%20S%20and%20Associates&query_place_id=ChIJlyIsSzC1bTkRY2QiJa7Nou0",
     embed:
-      "https://www.google.com/maps?q=YOGENDRA%20JAIN%20%26%20COMPANY%2C%20Bani%20Park%2C%20Jaipur&output=embed",
+      "https://www.google.com/maps?q=A%20G%20R%20S%20and%20Associates%2C%20C%20Scheme%2C%20Jaipur&output=embed",
   },
   social: {
     linkedin: "#",

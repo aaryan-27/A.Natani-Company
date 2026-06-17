@@ -8,9 +8,9 @@ import { BreadcrumbSchema } from "@/components/Schema";
 import { site, telLink, mailLink, whatsappLink } from "@/lib/site";
 
 export const metadata: Metadata = {
-  title: "Contact — CA Firm in Bani Park, Jaipur",
+  title: "Contact — CA Firm in C Scheme, Jaipur",
   description:
-    "Contact Yogendra Jain & Company, Chartered Accountants in Bani Park, Jaipur. Call +91 82854 95212, WhatsApp us, or request a free consultation online.",
+    "Contact A G R S and Associates, Chartered Accountants in C Scheme, Jaipur. Call +91 88750 00468, WhatsApp us, or request a free consultation online.",
   alternates: { canonical: "/contact" },
 };
 

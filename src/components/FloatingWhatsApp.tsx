@@ -27,7 +27,7 @@ export function FloatingWhatsApp() {
             className="w-[19rem] overflow-hidden rounded-2xl bg-white shadow-[0_20px_60px_rgba(15,23,42,0.25)] ring-1 ring-line"
           >
             <div className="bg-[#075E54] px-4 py-3 text-white">
-              <p className="font-heading font-semibold">Yogendra Jain & Co.</p>
+              <p className="font-heading font-semibold">A G R S and Associates</p>
               <p className="text-xs text-emerald-100">Typically replies within minutes</p>
             </div>
             <div className="p-4">

@@ -1,6 +1,6 @@
-# Yogendra Jain & Company — CA Firm Website
+# A G R S and Associates — CA Firm Website
 
-A premium, modern, conversion-focused website for **YOGENDRA JAIN & COMPANY**,
+A premium, modern, conversion-focused website for **A G R S AND ASSOCIATES**,
 Chartered Accountants in Jaipur. Built for trust-building, local SEO and
 WhatsApp-driven lead generation.
 
