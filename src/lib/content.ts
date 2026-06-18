@@ -100,7 +100,7 @@ export const testimonials = [
     role: "Director, Manufacturing MSME",
     rating: 5,
     quote:
-      "We moved our entire accounting and GST compliance to A G R S and Associates. The monthly MIS reports give me real clarity on the business. Professional and dependable.",
+      "We moved our entire accounting and GST compliance to Deepak Aswani & Associates. The monthly MIS reports give me real clarity on the business. Professional and dependable.",
     initials: "MI",
   },
   {

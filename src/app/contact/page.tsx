@@ -8,9 +8,9 @@ import { BreadcrumbSchema } from "@/components/Schema";
 import { site, telLink, mailLink, whatsappLink } from "@/lib/site";
 
 export const metadata: Metadata = {
-  title: "Contact — CA Firm in C Scheme, Jaipur",
+  title: "Contact — CA Firm in Shastri Nagar, Jaipur",
   description:
-    "Contact A G R S and Associates, Chartered Accountants in C Scheme, Jaipur. Call +91 88750 00468, WhatsApp us, or request a free consultation online.",
+    "Contact Deepak Aswani & Associates, Chartered Accountants in Shastri Nagar, Jaipur. Call +91 77373 76479, WhatsApp us, or request a free consultation online.",
   alternates: { canonical: "/contact" },
 };
 

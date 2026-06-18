@@ -1,38 +1,38 @@
 /**
- * Central configuration for A G R S AND ASSOCIATES.
+ * Central configuration for DEEPAK ASWANI & ASSOCIATES.
  * Single source of truth for contact details, navigation, services and SEO.
  */
 
 export const site = {
-  name: "A G R S AND ASSOCIATES",
-  shortName: "A G R S and Associates",
-  legalName: "A G R S and Associates, Chartered Accountants",
+  name: "DEEPAK ASWANI & ASSOCIATES",
+  shortName: "Deepak Aswani & Associates",
+  legalName: "Deepak Aswani & Associates, Chartered Accountants",
   tagline: "Simplifying Taxation, Compliance & Business Growth",
   description:
-    "A G R S and Associates is a Jaipur-based Chartered Accountant firm offering expert income tax, GST, audit, company registration, accounting and business advisory services for individuals, startups, MSMEs and businesses.",
+    "Deepak Aswani & Associates is a Jaipur-based Chartered Accountant firm offering expert income tax, GST, audit, company registration, accounting and business advisory services for individuals, startups, MSMEs and businesses.",
   url: "https://www.agrsandassociates.com",
   city: "Jaipur",
   state: "Rajasthan",
   // Use NEXT_PUBLIC_SITE_URL in production deployments.
-  phone: "+91 88750 00468",
-  phoneRaw: "918875000468",
+  phone: "+91 77373 76479",
+  phoneRaw: "917737376479",
   email: "info@agrsandassociates.com",
   address: {
-    line1: "Third Floor, H 458, Azad Marg",
-    line2: "C Scheme",
+    line1: "Plot No. 177, Subhash Colony",
+    line2: "Shastri Nagar",
     city: "Jaipur",
     state: "Rajasthan",
-    pincode: "302001",
+    pincode: "302016",
     country: "India",
-    full: "Third Floor, H 458, Azad Marg, C Scheme, Jaipur, Rajasthan 302001, India",
-    geo: { lat: 26.9069, lng: 75.7965 },
+    full: "Plot No. 177, Subhash Colony, Shastri Nagar, Jaipur, Rajasthan 302016, India",
+    geo: { lat: 26.929, lng: 75.792 },
   },
   hours: "Mon – Sat: 10:00 AM – 7:00 PM",
   maps: {
     profile:
-      "https://www.google.com/maps/search/?api=1&query=A%20G%20R%20S%20and%20Associates&query_place_id=ChIJlyIsSzC1bTkRY2QiJa7Nou0",
+      "https://www.google.com/maps/search/?api=1&query=Deepak%20Aswani%20%26%20Associates&query_place_id=ChIJWcS2cd6zbTkRDExYIpJaz_E",
     embed:
-      "https://www.google.com/maps?q=A%20G%20R%20S%20and%20Associates%2C%20C%20Scheme%2C%20Jaipur&output=embed",
+      "https://www.google.com/maps?q=Deepak%20Aswani%20%26%20Associates%2C%20Shastri%20Nagar%2C%20Jaipur&output=embed",
   },
   social: {
     linkedin: "#",

@@ -21,7 +21,7 @@ import { site, whatsappLink } from "@/lib/site";
 export const metadata: Metadata = {
   title: "About Us — Chartered Accountants in Jaipur",
   description:
-    "Learn about A G R S and Associates, a trusted Chartered Accountant firm in Jaipur. Our mission, values and the expertise behind our tax, GST and compliance services.",
+    "Learn about Deepak Aswani & Associates, a trusted Chartered Accountant firm in Jaipur. Our mission, values and the expertise behind our tax, GST and compliance services.",
   alternates: { canonical: "/about" },
 };
 
@@ -76,7 +76,7 @@ export default function AboutPage() {
             <div className="mt-5 space-y-4 text-muted leading-relaxed">
               <p>
                 {site.legalName} is a professional accounting, taxation and
-                business advisory firm based in C Scheme, Jaipur. We bring
+                business advisory firm based in Shastri Nagar, Jaipur. We bring
                 together deep technical expertise and a genuinely personal
                 approach to serve clients across India and abroad.
               </p>
@@ -150,9 +150,9 @@ export default function AboutPage() {
                 <div className="grid h-full w-full place-items-center rounded-[1.4rem] bg-navy text-white">
                   <div className="text-center">
                     <span className="mx-auto grid h-28 w-28 place-items-center rounded-full bg-white/10 font-display text-4xl font-extrabold text-gradient-gold ring-1 ring-white/15">
-                      AG
+                      DA
                     </span>
-                    <p className="mt-5 font-heading text-xl font-bold">A G R S and Associates</p>
+                    <p className="mt-5 font-heading text-xl font-bold">Deepak Aswani & Associates</p>
                     <p className="text-sm text-slate-300">Founder &amp; Principal</p>
                   </div>
                 </div>
@@ -166,11 +166,11 @@ export default function AboutPage() {
 
           <Reveal delay={1} className="lg:col-span-7">
             <Eyebrow>Meet the Founder</Eyebrow>
-            <h2 className="mt-4 font-heading text-3xl font-bold text-navy">A G R S and Associates</h2>
+            <h2 className="mt-4 font-heading text-3xl font-bold text-navy">Deepak Aswani & Associates</h2>
             <p className="mt-4 leading-relaxed text-muted">
               A team of qualified Chartered Accountants with over a decade of
               experience advising individuals, startups and growing businesses,
-              A G R S and Associates was founded with a simple belief: every
+              Deepak Aswani & Associates was founded with a simple belief: every
               client deserves honest, accessible and expert financial guidance.
             </p>
             <div className="mt-7 grid gap-4 sm:grid-cols-3">
