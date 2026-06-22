@@ -8,9 +8,9 @@ import { BreadcrumbSchema } from "@/components/Schema";
 import { site, telLink, mailLink, whatsappLink } from "@/lib/site";
 
 export const metadata: Metadata = {
-  title: "Contact — CA Firm in Shastri Nagar, Jaipur",
+  title: "Contact — CA Firm in Sindhi Camp, Jaipur",
   description:
-    "Contact Deepak Aswani & Associates, Chartered Accountants in Shastri Nagar, Jaipur. Call +91 77373 76479, WhatsApp us, or request a free consultation online.",
+    "Contact A.Natani & Company, Chartered Accountants in Sindhi Camp, Jaipur. Call +91 98290 50994, WhatsApp us, or request a free consultation online.",
   alternates: { canonical: "/contact" },
 };
 

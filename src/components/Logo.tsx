@@ -13,10 +13,10 @@ export function Logo({
     <Link
       href="/"
       className={cn("group flex items-center gap-3", className)}
-      aria-label="Deepak Aswani & Associates — Home"
+      aria-label="A.Natani & Company — Home"
     >
       <span className="relative grid h-11 w-11 shrink-0 place-items-center rounded-xl bg-gradient-to-br from-navy to-royal-600 shadow-[0_6px_18px_rgba(37,99,235,0.35)]">
-        <span className="font-display text-lg font-extrabold text-white">DA</span>
+        <span className="font-display text-lg font-extrabold text-white">AN</span>
         <span className="absolute -bottom-1 -right-1 h-3 w-3 rounded-full bg-gold ring-2 ring-white" />
       </span>
       <span className="flex flex-col leading-none">
@@ -26,7 +26,7 @@ export function Logo({
             isLight ? "text-white" : "text-navy"
           )}
         >
-          Deepak Aswani <span className="text-gold">&amp; Associates</span>
+          A.Natani <span className="text-gold">&amp; Company</span>
         </span>
         <span
           className={cn(

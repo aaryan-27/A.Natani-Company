@@ -1,38 +1,38 @@
 /**
- * Central configuration for DEEPAK ASWANI & ASSOCIATES.
+ * Central configuration for A.NATANI & COMPANY.
  * Single source of truth for contact details, navigation, services and SEO.
  */
 
 export const site = {
-  name: "DEEPAK ASWANI & ASSOCIATES",
-  shortName: "Deepak Aswani & Associates",
-  legalName: "Deepak Aswani & Associates, Chartered Accountants",
+  name: "A.NATANI & COMPANY",
+  shortName: "A.Natani & Company",
+  legalName: "A.Natani & Company, Chartered Accountants",
   tagline: "Simplifying Taxation, Compliance & Business Growth",
   description:
-    "Deepak Aswani & Associates is a Jaipur-based Chartered Accountant firm offering expert income tax, GST, audit, company registration, accounting and business advisory services for individuals, startups, MSMEs and businesses.",
+    "A.Natani & Company is a Jaipur-based Chartered Accountant firm offering expert income tax, GST, audit, company registration, accounting and business advisory services for individuals, startups, MSMEs and businesses.",
   url: "https://www.agrsandassociates.com",
   city: "Jaipur",
   state: "Rajasthan",
   // Use NEXT_PUBLIC_SITE_URL in production deployments.
-  phone: "+91 77373 76479",
-  phoneRaw: "917737376479",
+  phone: "+91 98290 50994",
+  phoneRaw: "919829050994",
   email: "info@agrsandassociates.com",
   address: {
-    line1: "Plot No. 177, Subhash Colony",
-    line2: "Shastri Nagar",
+    line1: "Samod Tower, 207, Sansar Chandra Rd",
+    line2: "opp. City Center Complex, Sindhi Camp",
     city: "Jaipur",
     state: "Rajasthan",
-    pincode: "302016",
+    pincode: "302001",
     country: "India",
-    full: "Plot No. 177, Subhash Colony, Shastri Nagar, Jaipur, Rajasthan 302016, India",
-    geo: { lat: 26.929, lng: 75.792 },
+    full: "Samod Tower, 207, Sansar Chandra Rd, opp. City Center Complex, Azad Basti, Dudu bagh, Sindhi Camp, Jaipur, Rajasthan 302001, India",
+    geo: { lat: 26.9221, lng: 75.7986 },
   },
   hours: "Mon – Sat: 10:00 AM – 7:00 PM",
   maps: {
     profile:
-      "https://www.google.com/maps/search/?api=1&query=Deepak%20Aswani%20%26%20Associates&query_place_id=ChIJWcS2cd6zbTkRDExYIpJaz_E",
+      "https://www.google.com/maps/search/?api=1&query=A.Natani%20%26%20Company&query_place_id=ChIJHVQklWSzbTkRiKAq3b7mWtQ",
     embed:
-      "https://www.google.com/maps?q=Deepak%20Aswani%20%26%20Associates%2C%20Shastri%20Nagar%2C%20Jaipur&output=embed",
+      "https://www.google.com/maps?q=A.Natani%20%26%20Company%2C%20Sansar%20Chandra%20Rd%2C%20Jaipur&output=embed",
   },
   social: {
     linkedin: "#",

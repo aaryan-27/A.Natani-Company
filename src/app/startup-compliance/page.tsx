@@ -21,7 +21,7 @@ import { FaqSchema, BreadcrumbSchema } from "@/components/Schema";
 export const metadata: Metadata = {
   title: "Startup & Company Registration in Jaipur — Compliance Experts",
   description:
-    "Startup registration, company registration and LLP registration in Jaipur. End-to-end incorporation and compliance for founders and MSMEs by Deepak Aswani & Associates.",
+    "Startup registration, company registration and LLP registration in Jaipur. End-to-end incorporation and compliance for founders and MSMEs by A.Natani & Company.",
   keywords: [
     "Startup Registration Jaipur",
     "Company Registration Jaipur",
