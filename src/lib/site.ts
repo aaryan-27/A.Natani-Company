@@ -10,13 +10,13 @@ export const site = {
   tagline: "Simplifying Taxation, Compliance & Business Growth",
   description:
     "A.Natani & Company is a Jaipur-based Chartered Accountant firm offering expert income tax, GST, audit, company registration, accounting and business advisory services for individuals, startups, MSMEs and businesses.",
-  url: "https://www.agrsandassociates.com",
+  url: "https://www.anatanicompany.com",
   city: "Jaipur",
   state: "Rajasthan",
   // Use NEXT_PUBLIC_SITE_URL in production deployments.
   phone: "+91 98290 50994",
   phoneRaw: "919829050994",
-  email: "info@agrsandassociates.com",
+  email: "info@anatanicompany.com",
   address: {
     line1: "Samod Tower, 207, Sansar Chandra Rd",
     line2: "opp. City Center Complex, Sindhi Camp",
